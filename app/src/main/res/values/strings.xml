@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlazeFont</string>
+    <string name="ime_name">BlazeFont Keyboard</string>
+    <string name="developer_name">Bilal Ahmed</string>
+</resources>

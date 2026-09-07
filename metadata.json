@@ -1,0 +1,6 @@
+{
+  "name": "BlazeFont",
+  "description": "Fancy Font Generator, Cute Fonts, Number Fonts, Bio Decorator & Keyboard by Developer Bilal Ahmed",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
